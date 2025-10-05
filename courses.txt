@@ -1,0 +1,42 @@
+courses_data = [
+    {
+        "title": "Python for Beginners",
+        "category": "Programming",
+        "level": "Beginner",
+        "duration": "6 weeks",
+        "price": "$50",
+        "description": "An introductory course that teaches the basics of Python programming, including variables, loops, and data structures."
+    },
+    {
+        "title": "Data Analysis with Pandas",
+        "category": "Data Science",
+        "level": "Intermediate",
+        "duration": "8 weeks",
+        "price": "$75",
+        "description": "Learn how to analyze and visualize data using Python libraries such as Pandas and Matplotlib."
+    },
+    {
+        "title": "Web Development with React",
+        "category": "Web Development",
+        "level": "Advanced",
+        "duration": "10 weeks",
+        "price": "$120",
+        "description": "Master front-end development using React.js, hooks, state management, and API integration."
+    },
+    {
+        "title": "Machine Learning Fundamentals",
+        "category": "Artificial Intelligence",
+        "level": "Intermediate",
+        "duration": "12 weeks",
+        "price": "$150",
+        "description": "Understand machine learning concepts, algorithms, and applications using scikit-learn and TensorFlow."
+    },
+    {
+        "title": "UI/UX Design Principles",
+        "category": "Design",
+        "level": "Beginner",
+        "duration": "5 weeks",
+        "price": "$60",
+        "description": "Learn the core principles of user interface and user experience design with practical projects."
+    }
+]
